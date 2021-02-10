@@ -1,0 +1,168 @@
+[08-Feb-2021 05:01:22 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 05:01:25 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 05:01:28 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 05:02:35 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 05:03:54 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 05:04:19 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 05:04:25 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 05:04:57 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:00:00 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:00:12 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:20 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:28 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:29 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:30 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:30 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:30 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:30 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:36 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:48 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:48 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:02:59 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:07:13 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:27:14 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185
+[08-Feb-2021 14:30:20 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(C:\www\myzore\storage\framework\views/f4d4b3f589db5703cf88653908cd4a5ce06a51dd.php): failed to open stream: No such file or directory in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:185
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/myzore/in...', 185, Array)
+#1 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(185): file_put_contents('C:\\www\\myzore\\s...', '<?php $__env->s...', 0)
+#2 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(157): Illuminate\Filesystem\Filesystem->put('C:\\www\\myzore\\s...', '<?php $__env->s...')
+#3 /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(55): Illuminate\View\Compilers\BladeCompiler->compile('/home/myzore/in...')
+#4 /home/myzore/intrane in /home/myzore/intranet.myzore.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 185

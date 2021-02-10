@@ -1,0 +1,982 @@
+[
+    {
+        "id": "0101",
+        "nombre": "Chachapoyas",
+        "region_id": "01"
+    },
+    {
+        "id": "0102",
+        "nombre": "Bagua",
+        "region_id": "01"
+    },
+    {
+        "id": "0103",
+        "nombre": "Bongar\u00e1",
+        "region_id": "01"
+    },
+    {
+        "id": "0104",
+        "nombre": "Condorcanqui",
+        "region_id": "01"
+    },
+    {
+        "id": "0105",
+        "nombre": "Luya",
+        "region_id": "01"
+    },
+    {
+        "id": "0106",
+        "nombre": "Rodr\u00edguez de Mendoza",
+        "region_id": "01"
+    },
+    {
+        "id": "0107",
+        "nombre": "Utcubamba",
+        "region_id": "01"
+    },
+    {
+        "id": "0201",
+        "nombre": "Huaraz",
+        "region_id": "02"
+    },
+    {
+        "id": "0202",
+        "nombre": "Aija",
+        "region_id": "02"
+    },
+    {
+        "id": "0203",
+        "nombre": "Antonio Raymondi",
+        "region_id": "02"
+    },
+    {
+        "id": "0204",
+        "nombre": "Asunci\u00f3n",
+        "region_id": "02"
+    },
+    {
+        "id": "0205",
+        "nombre": "Bolognesi",
+        "region_id": "02"
+    },
+    {
+        "id": "0206",
+        "nombre": "Carhuaz",
+        "region_id": "02"
+    },
+    {
+        "id": "0207",
+        "nombre": "Carlos Ferm\u00edn Fitzcarrald",
+        "region_id": "02"
+    },
+    {
+        "id": "0208",
+        "nombre": "Casma",
+        "region_id": "02"
+    },
+    {
+        "id": "0209",
+        "nombre": "Corongo",
+        "region_id": "02"
+    },
+    {
+        "id": "0210",
+        "nombre": "Huari",
+        "region_id": "02"
+    },
+    {
+        "id": "0211",
+        "nombre": "Huarmey",
+        "region_id": "02"
+    },
+    {
+        "id": "0212",
+        "nombre": "Huaylas",
+        "region_id": "02"
+    },
+    {
+        "id": "0213",
+        "nombre": "Mariscal Luzuriaga",
+        "region_id": "02"
+    },
+    {
+        "id": "0214",
+        "nombre": "Ocros",
+        "region_id": "02"
+    },
+    {
+        "id": "0215",
+        "nombre": "Pallasca",
+        "region_id": "02"
+    },
+    {
+        "id": "0216",
+        "nombre": "Pomabamba",
+        "region_id": "02"
+    },
+    {
+        "id": "0217",
+        "nombre": "Recuay",
+        "region_id": "02"
+    },
+    {
+        "id": "0218",
+        "nombre": "Santa",
+        "region_id": "02"
+    },
+    {
+        "id": "0219",
+        "nombre": "Sihuas",
+        "region_id": "02"
+    },
+    {
+        "id": "0220",
+        "nombre": "Yungay",
+        "region_id": "02"
+    },
+    {
+        "id": "0301",
+        "nombre": "Abancay",
+        "region_id": "03"
+    },
+    {
+        "id": "0302",
+        "nombre": "Andahuaylas",
+        "region_id": "03"
+    },
+    {
+        "id": "0303",
+        "nombre": "Antabamba",
+        "region_id": "03"
+    },
+    {
+        "id": "0304",
+        "nombre": "Aymaraes",
+        "region_id": "03"
+    },
+    {
+        "id": "0305",
+        "nombre": "Cotabambas",
+        "region_id": "03"
+    },
+    {
+        "id": "0306",
+        "nombre": "Chincheros",
+        "region_id": "03"
+    },
+    {
+        "id": "0307",
+        "nombre": "Grau",
+        "region_id": "03"
+    },
+    {
+        "id": "0401",
+        "nombre": "Arequipa",
+        "region_id": "04"
+    },
+    {
+        "id": "0402",
+        "nombre": "Caman\u00e1",
+        "region_id": "04"
+    },
+    {
+        "id": "0403",
+        "nombre": "Caravel\u00ed",
+        "region_id": "04"
+    },
+    {
+        "id": "0404",
+        "nombre": "Castilla",
+        "region_id": "04"
+    },
+    {
+        "id": "0405",
+        "nombre": "Caylloma",
+        "region_id": "04"
+    },
+    {
+        "id": "0406",
+        "nombre": "Condesuyos",
+        "region_id": "04"
+    },
+    {
+        "id": "0407",
+        "nombre": "Islay",
+        "region_id": "04"
+    },
+    {
+        "id": "0408",
+        "nombre": "La Uni\u00f2n",
+        "region_id": "04"
+    },
+    {
+        "id": "0501",
+        "nombre": "Huamanga",
+        "region_id": "05"
+    },
+    {
+        "id": "0502",
+        "nombre": "Cangallo",
+        "region_id": "05"
+    },
+    {
+        "id": "0503",
+        "nombre": "Huanca Sancos",
+        "region_id": "05"
+    },
+    {
+        "id": "0504",
+        "nombre": "Huanta",
+        "region_id": "05"
+    },
+    {
+        "id": "0505",
+        "nombre": "La Mar",
+        "region_id": "05"
+    },
+    {
+        "id": "0506",
+        "nombre": "Lucanas",
+        "region_id": "05"
+    },
+    {
+        "id": "0507",
+        "nombre": "Parinacochas",
+        "region_id": "05"
+    },
+    {
+        "id": "0508",
+        "nombre": "P\u00e0ucar del Sara Sara",
+        "region_id": "05"
+    },
+    {
+        "id": "0509",
+        "nombre": "Sucre",
+        "region_id": "05"
+    },
+    {
+        "id": "0510",
+        "nombre": "V\u00edctor Fajardo",
+        "region_id": "05"
+    },
+    {
+        "id": "0511",
+        "nombre": "Vilcas Huam\u00e1n",
+        "region_id": "05"
+    },
+    {
+        "id": "0601",
+        "nombre": "Cajamarca",
+        "region_id": "06"
+    },
+    {
+        "id": "0602",
+        "nombre": "Cajabamba",
+        "region_id": "06"
+    },
+    {
+        "id": "0603",
+        "nombre": "Celend\u00edn",
+        "region_id": "06"
+    },
+    {
+        "id": "0604",
+        "nombre": "Chota",
+        "region_id": "06"
+    },
+    {
+        "id": "0605",
+        "nombre": "Contumaz\u00e1",
+        "region_id": "06"
+    },
+    {
+        "id": "0606",
+        "nombre": "Cutervo",
+        "region_id": "06"
+    },
+    {
+        "id": "0607",
+        "nombre": "Hualgayoc",
+        "region_id": "06"
+    },
+    {
+        "id": "0608",
+        "nombre": "Ja\u00e9n",
+        "region_id": "06"
+    },
+    {
+        "id": "0609",
+        "nombre": "San Ignacio",
+        "region_id": "06"
+    },
+    {
+        "id": "0610",
+        "nombre": "San Marcos",
+        "region_id": "06"
+    },
+    {
+        "id": "0611",
+        "nombre": "San Miguel",
+        "region_id": "06"
+    },
+    {
+        "id": "0612",
+        "nombre": "San Pablo",
+        "region_id": "06"
+    },
+    {
+        "id": "0613",
+        "nombre": "Santa Cruz",
+        "region_id": "06"
+    },
+    {
+        "id": "0701",
+        "nombre": "Prov. Const. del Callao",
+        "region_id": "07"
+    },
+    {
+        "id": "0801",
+        "nombre": "Cusco",
+        "region_id": "08"
+    },
+    {
+        "id": "0802",
+        "nombre": "Acomayo",
+        "region_id": "08"
+    },
+    {
+        "id": "0803",
+        "nombre": "Anta",
+        "region_id": "08"
+    },
+    {
+        "id": "0804",
+        "nombre": "Calca",
+        "region_id": "08"
+    },
+    {
+        "id": "0805",
+        "nombre": "Canas",
+        "region_id": "08"
+    },
+    {
+        "id": "0806",
+        "nombre": "Canchis",
+        "region_id": "08"
+    },
+    {
+        "id": "0807",
+        "nombre": "Chumbivilcas",
+        "region_id": "08"
+    },
+    {
+        "id": "0808",
+        "nombre": "Espinar",
+        "region_id": "08"
+    },
+    {
+        "id": "0809",
+        "nombre": "La Convenci\u00f3n",
+        "region_id": "08"
+    },
+    {
+        "id": "0810",
+        "nombre": "Paruro",
+        "region_id": "08"
+    },
+    {
+        "id": "0811",
+        "nombre": "Paucartambo",
+        "region_id": "08"
+    },
+    {
+        "id": "0812",
+        "nombre": "Quispicanchi",
+        "region_id": "08"
+    },
+    {
+        "id": "0813",
+        "nombre": "Urubamba",
+        "region_id": "08"
+    },
+    {
+        "id": "0901",
+        "nombre": "Huancavelica",
+        "region_id": "09"
+    },
+    {
+        "id": "0902",
+        "nombre": "Acobamba",
+        "region_id": "09"
+    },
+    {
+        "id": "0903",
+        "nombre": "Angaraes",
+        "region_id": "09"
+    },
+    {
+        "id": "0904",
+        "nombre": "Castrovirreyna",
+        "region_id": "09"
+    },
+    {
+        "id": "0905",
+        "nombre": "Churcampa",
+        "region_id": "09"
+    },
+    {
+        "id": "0906",
+        "nombre": "Huaytar\u00e1",
+        "region_id": "09"
+    },
+    {
+        "id": "0907",
+        "nombre": "Tayacaja",
+        "region_id": "09"
+    },
+    {
+        "id": "1001",
+        "nombre": "Hu\u00e1nuco",
+        "region_id": "10"
+    },
+    {
+        "id": "1002",
+        "nombre": "Ambo",
+        "region_id": "10"
+    },
+    {
+        "id": "1003",
+        "nombre": "Dos de Mayo",
+        "region_id": "10"
+    },
+    {
+        "id": "1004",
+        "nombre": "Huacaybamba",
+        "region_id": "10"
+    },
+    {
+        "id": "1005",
+        "nombre": "Huamal\u00edes",
+        "region_id": "10"
+    },
+    {
+        "id": "1006",
+        "nombre": "Leoncio Prado",
+        "region_id": "10"
+    },
+    {
+        "id": "1007",
+        "nombre": "Mara\u00f1\u00f3n",
+        "region_id": "10"
+    },
+    {
+        "id": "1008",
+        "nombre": "Pachitea",
+        "region_id": "10"
+    },
+    {
+        "id": "1009",
+        "nombre": "Puerto Inca",
+        "region_id": "10"
+    },
+    {
+        "id": "1010",
+        "nombre": "Lauricocha ",
+        "region_id": "10"
+    },
+    {
+        "id": "1011",
+        "nombre": "Yarowilca ",
+        "region_id": "10"
+    },
+    {
+        "id": "1101",
+        "nombre": "Ica ",
+        "region_id": "11"
+    },
+    {
+        "id": "1102",
+        "nombre": "Chincha ",
+        "region_id": "11"
+    },
+    {
+        "id": "1103",
+        "nombre": "Nasca ",
+        "region_id": "11"
+    },
+    {
+        "id": "1104",
+        "nombre": "Palpa ",
+        "region_id": "11"
+    },
+    {
+        "id": "1105",
+        "nombre": "Pisco ",
+        "region_id": "11"
+    },
+    {
+        "id": "1201",
+        "nombre": "Huancayo ",
+        "region_id": "12"
+    },
+    {
+        "id": "1202",
+        "nombre": "Concepci\u00f3n ",
+        "region_id": "12"
+    },
+    {
+        "id": "1203",
+        "nombre": "Chanchamayo ",
+        "region_id": "12"
+    },
+    {
+        "id": "1204",
+        "nombre": "Jauja ",
+        "region_id": "12"
+    },
+    {
+        "id": "1205",
+        "nombre": "Jun\u00edn ",
+        "region_id": "12"
+    },
+    {
+        "id": "1206",
+        "nombre": "Satipo ",
+        "region_id": "12"
+    },
+    {
+        "id": "1207",
+        "nombre": "Tarma ",
+        "region_id": "12"
+    },
+    {
+        "id": "1208",
+        "nombre": "Yauli ",
+        "region_id": "12"
+    },
+    {
+        "id": "1209",
+        "nombre": "Chupaca ",
+        "region_id": "12"
+    },
+    {
+        "id": "1301",
+        "nombre": "Trujillo ",
+        "region_id": "13"
+    },
+    {
+        "id": "1302",
+        "nombre": "Ascope ",
+        "region_id": "13"
+    },
+    {
+        "id": "1303",
+        "nombre": "Bol\u00edvar ",
+        "region_id": "13"
+    },
+    {
+        "id": "1304",
+        "nombre": "Chep\u00e9n ",
+        "region_id": "13"
+    },
+    {
+        "id": "1305",
+        "nombre": "Julc\u00e1n ",
+        "region_id": "13"
+    },
+    {
+        "id": "1306",
+        "nombre": "Otuzco ",
+        "region_id": "13"
+    },
+    {
+        "id": "1307",
+        "nombre": "Pacasmayo ",
+        "region_id": "13"
+    },
+    {
+        "id": "1308",
+        "nombre": "Pataz ",
+        "region_id": "13"
+    },
+    {
+        "id": "1309",
+        "nombre": "S\u00e1nchez Carri\u00f3n ",
+        "region_id": "13"
+    },
+    {
+        "id": "1310",
+        "nombre": "Santiago de Chuco ",
+        "region_id": "13"
+    },
+    {
+        "id": "1311",
+        "nombre": "Gran Chim\u00fa ",
+        "region_id": "13"
+    },
+    {
+        "id": "1312",
+        "nombre": "Vir\u00fa ",
+        "region_id": "13"
+    },
+    {
+        "id": "1401",
+        "nombre": "Chiclayo ",
+        "region_id": "14"
+    },
+    {
+        "id": "1402",
+        "nombre": "Ferre\u00f1afe ",
+        "region_id": "14"
+    },
+    {
+        "id": "1403",
+        "nombre": "Lambayeque ",
+        "region_id": "14"
+    },
+    {
+        "id": "1501",
+        "nombre": "Lima ",
+        "region_id": "15"
+    },
+    {
+        "id": "1502",
+        "nombre": "Barranca ",
+        "region_id": "15"
+    },
+    {
+        "id": "1503",
+        "nombre": "Cajatambo ",
+        "region_id": "15"
+    },
+    {
+        "id": "1504",
+        "nombre": "Canta ",
+        "region_id": "15"
+    },
+    {
+        "id": "1505",
+        "nombre": "Ca\u00f1ete ",
+        "region_id": "15"
+    },
+    {
+        "id": "1506",
+        "nombre": "Huaral ",
+        "region_id": "15"
+    },
+    {
+        "id": "1507",
+        "nombre": "Huarochir\u00ed ",
+        "region_id": "15"
+    },
+    {
+        "id": "1508",
+        "nombre": "Huaura ",
+        "region_id": "15"
+    },
+    {
+        "id": "1509",
+        "nombre": "Oy\u00f3n ",
+        "region_id": "15"
+    },
+    {
+        "id": "1510",
+        "nombre": "Yauyos ",
+        "region_id": "15"
+    },
+    {
+        "id": "1601",
+        "nombre": "Maynas ",
+        "region_id": "16"
+    },
+    {
+        "id": "1602",
+        "nombre": "Alto Amazonas ",
+        "region_id": "16"
+    },
+    {
+        "id": "1603",
+        "nombre": "Loreto ",
+        "region_id": "16"
+    },
+    {
+        "id": "1604",
+        "nombre": "Mariscal Ram\u00f3n Castilla ",
+        "region_id": "16"
+    },
+    {
+        "id": "1605",
+        "nombre": "Requena ",
+        "region_id": "16"
+    },
+    {
+        "id": "1606",
+        "nombre": "Ucayali ",
+        "region_id": "16"
+    },
+    {
+        "id": "1607",
+        "nombre": "Datem del Mara\u00f1\u00f3n ",
+        "region_id": "16"
+    },
+    {
+        "id": "1608",
+        "nombre": "Putumayo",
+        "region_id": "16"
+    },
+    {
+        "id": "1701",
+        "nombre": "Tambopata ",
+        "region_id": "17"
+    },
+    {
+        "id": "1702",
+        "nombre": "Manu ",
+        "region_id": "17"
+    },
+    {
+        "id": "1703",
+        "nombre": "Tahuamanu ",
+        "region_id": "17"
+    },
+    {
+        "id": "1801",
+        "nombre": "Mariscal Nieto ",
+        "region_id": "18"
+    },
+    {
+        "id": "1802",
+        "nombre": "General S\u00e1nchez Cerro ",
+        "region_id": "18"
+    },
+    {
+        "id": "1803",
+        "nombre": "Ilo ",
+        "region_id": "18"
+    },
+    {
+        "id": "1901",
+        "nombre": "Pasco ",
+        "region_id": "19"
+    },
+    {
+        "id": "1902",
+        "nombre": "Daniel Alcides Carri\u00f3n ",
+        "region_id": "19"
+    },
+    {
+        "id": "1903",
+        "nombre": "Oxapampa ",
+        "region_id": "19"
+    },
+    {
+        "id": "2001",
+        "nombre": "Piura ",
+        "region_id": "20"
+    },
+    {
+        "id": "2002",
+        "nombre": "Ayabaca ",
+        "region_id": "20"
+    },
+    {
+        "id": "2003",
+        "nombre": "Huancabamba ",
+        "region_id": "20"
+    },
+    {
+        "id": "2004",
+        "nombre": "Morrop\u00f3n ",
+        "region_id": "20"
+    },
+    {
+        "id": "2005",
+        "nombre": "Paita ",
+        "region_id": "20"
+    },
+    {
+        "id": "2006",
+        "nombre": "Sullana ",
+        "region_id": "20"
+    },
+    {
+        "id": "2007",
+        "nombre": "Talara ",
+        "region_id": "20"
+    },
+    {
+        "id": "2008",
+        "nombre": "Sechura ",
+        "region_id": "20"
+    },
+    {
+        "id": "2101",
+        "nombre": "Puno ",
+        "region_id": "21"
+    },
+    {
+        "id": "2102",
+        "nombre": "Az\u00e1ngaro ",
+        "region_id": "21"
+    },
+    {
+        "id": "2103",
+        "nombre": "Carabaya ",
+        "region_id": "21"
+    },
+    {
+        "id": "2104",
+        "nombre": "Chucuito ",
+        "region_id": "21"
+    },
+    {
+        "id": "2105",
+        "nombre": "El Collao ",
+        "region_id": "21"
+    },
+    {
+        "id": "2106",
+        "nombre": "Huancan\u00e9 ",
+        "region_id": "21"
+    },
+    {
+        "id": "2107",
+        "nombre": "Lampa ",
+        "region_id": "21"
+    },
+    {
+        "id": "2108",
+        "nombre": "Melgar ",
+        "region_id": "21"
+    },
+    {
+        "id": "2109",
+        "nombre": "Moho ",
+        "region_id": "21"
+    },
+    {
+        "id": "2110",
+        "nombre": "San Antonio de Putina ",
+        "region_id": "21"
+    },
+    {
+        "id": "2111",
+        "nombre": "San Rom\u00e1n ",
+        "region_id": "21"
+    },
+    {
+        "id": "2112",
+        "nombre": "Sandia ",
+        "region_id": "21"
+    },
+    {
+        "id": "2113",
+        "nombre": "Yunguyo ",
+        "region_id": "21"
+    },
+    {
+        "id": "2201",
+        "nombre": "Moyobamba ",
+        "region_id": "22"
+    },
+    {
+        "id": "2202",
+        "nombre": "Bellavista ",
+        "region_id": "22"
+    },
+    {
+        "id": "2203",
+        "nombre": "El Dorado ",
+        "region_id": "22"
+    },
+    {
+        "id": "2204",
+        "nombre": "Huallaga ",
+        "region_id": "22"
+    },
+    {
+        "id": "2205",
+        "nombre": "Lamas ",
+        "region_id": "22"
+    },
+    {
+        "id": "2206",
+        "nombre": "Mariscal C\u00e1ceres ",
+        "region_id": "22"
+    },
+    {
+        "id": "2207",
+        "nombre": "Picota ",
+        "region_id": "22"
+    },
+    {
+        "id": "2208",
+        "nombre": "Rioja ",
+        "region_id": "22"
+    },
+    {
+        "id": "2209",
+        "nombre": "San Mart\u00edn ",
+        "region_id": "22"
+    },
+    {
+        "id": "2210",
+        "nombre": "Tocache ",
+        "region_id": "22"
+    },
+    {
+        "id": "2301",
+        "nombre": "Tacna ",
+        "region_id": "23"
+    },
+    {
+        "id": "2302",
+        "nombre": "Candarave ",
+        "region_id": "23"
+    },
+    {
+        "id": "2303",
+        "nombre": "Jorge Basadre ",
+        "region_id": "23"
+    },
+    {
+        "id": "2304",
+        "nombre": "Tarata ",
+        "region_id": "23"
+    },
+    {
+        "id": "2401",
+        "nombre": "Tumbes ",
+        "region_id": "24"
+    },
+    {
+        "id": "2402",
+        "nombre": "Contralmirante Villar ",
+        "region_id": "24"
+    },
+    {
+        "id": "2403",
+        "nombre": "Zarumilla ",
+        "region_id": "24"
+    },
+    {
+        "id": "2501",
+        "nombre": "Coronel Portillo ",
+        "region_id": "25"
+    },
+    {
+        "id": "2502",
+        "nombre": "Atalaya ",
+        "region_id": "25"
+    },
+    {
+        "id": "2503",
+        "nombre": "Padre Abad ",
+        "region_id": "25"
+    },
+    {
+        "id": "2504",
+        "nombre": "Pur\u00fas",
+        "region_id": "25"
+    }
+]
